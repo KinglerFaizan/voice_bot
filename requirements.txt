@@ -1,1 +1,4 @@
 SpeechRecognition
+streamlit
+openai
+gTTS
