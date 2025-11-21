@@ -1,4 +1,10 @@
-SpeechRecognition
 streamlit
 openai
 gTTS
+speechrecognition
+pyttsx3
+pyaudio
+pydub
+numpy
+matplotlib
+pandas
